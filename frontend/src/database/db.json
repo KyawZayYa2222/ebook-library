@@ -1,0 +1,80 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Book 1",
+            "author": "Author 1",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv7rs3ZiSQiZdXJI1eibY6xlmeuLDNiM5eA&s",
+            "download": 5
+        },
+        {
+            "id": 2,
+            "title": "Book 2",
+            "author": "Author 2",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv7rs3ZiSQiZdXJI1eibY6xlmeuLDNiM5eA&s",
+            "download": 10
+        },
+        {
+            "id": 3,
+            "title": "Book 3",
+            "author": "Author 3",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv7rs3ZiSQiZdXJI1eibY6xlmeuLDNiM5eA&s",
+            "download": 8
+        },
+        {
+            "id": 4,
+            "title": "Book 4",
+            "author": "Author 4",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv7rs3ZiSQiZdXJI1eibY6xlmeuLDNiM5eA&s",
+            "download": 15
+        },
+        {
+            "id": 5,
+            "title": "Book 5",
+            "author": "Author 5",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv7rs3ZiSQiZdXJI1eibY6xlmeuLDNiM5eA&s",
+            "download": 12
+        },
+        {
+            "id": 6,
+            "title": "Book 6",
+            "author": "Author 6",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv7rs3ZiSQiZdXJI1eibY6xlmeuLDNiM5eA&s",
+            "download": 18
+        },
+        {
+            "id": 7,
+            "title": "Book 7",
+            "author": "Author 7",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv7rs3ZiSQiZdXJI1eibY6xlmeuLDNiM5eA&s",
+            "download": 10
+        },
+        {
+            "id": 8,
+            "title": "Book 8",
+            "author": "Author 8",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv7rs3ZiSQiZdXJI1eibY6xlmeuLDNiM5eA&s",
+            "download": 15
+        }
+    ],
+    "categories": [
+        { "title": "ဝတ္ထု", "count": 22, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "title": "ကဗျာ", "count": 12, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "title": "Biography", "count": 32, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "title": "သမိုင်း", "count": 4, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "title": "နည်းပညာ", "count": 7, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "title": "ဘာသာပြန်", "count": 22, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "title": "တိုးတက်ရေး", "count": 22, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "title": "အခြား", "count": 22, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"}
+    ],
+    "authors": [
+        { "name": "hahah", "count": 22, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "name": "udheh", "count": 12, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "name": "oa..a", "count": 32, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "name": "ouowaurf", "count": 4, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "name": "fkajsjr", "count": 7, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "name": "aknuxc", "count": 22, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "name": "uwoue", "count": 22, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"},
+        { "name": "afeass", "count": 22, "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg"}
+    ]
+}
